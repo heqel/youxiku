@@ -6,6 +6,9 @@
 ---------
 1.YUZU模拟器和马里奥游戏2个（马里奥派对巨星 马里奥兄弟u）
 
+下载链接 https://www.aliyundrive.com/s/AiESoLkszay
+
+
 收藏好！什么时候想用都能用的上，只有你想不到的没有他做不到的！ [资料站主页](https://heqel.github.io/#blog-carousel) page.
 
 合作
