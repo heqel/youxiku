@@ -2,17 +2,9 @@
 ---------
 <img src="https://heqel.github.io/img/carousel-1.jpg" width="1200"> 
 
-<img src="https://playnite.link/applogo.png" width="32">  BY何岩 [![Crowdin](https://badges.crowdin.net/playnite/localized.svg)](https://crowdin.com/project/playnite)
+<img src="https://playnite.link/applogo.png" width="32">  游戏资源 [![Crowdin](https://badges.crowdin.net/playnite/localized.svg)](https://crowdin.com/project/playnite)
 ---------
-暂时拥有的游戏
-
-这里有什么
----------
-
-一堆正儿八经的资源和一些好康的图片，你可以在这里了解html编码、电脑、摄影、设计等方面的很多内容，出自何岩！！
-
-那我要怎么用好这个网站
----------
+1.YUZU模拟器和马里奥游戏2个（马里奥派对巨星 马里奥兄弟u）
 
 收藏好！什么时候想用都能用的上，只有你想不到的没有他做不到的！ [资料站主页](https://heqel.github.io/#blog-carousel) page.
 
